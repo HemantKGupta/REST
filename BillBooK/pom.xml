@@ -1,6 +1,6 @@
 <!-- This file is used to build and run all the examples -->
 <project>
-    <name>OReilly JAX-RS 2.0 Workbook Examples</name>
+    <name>BillBook</name>
     <description/>
     <modelVersion>4.0.0</modelVersion>
 

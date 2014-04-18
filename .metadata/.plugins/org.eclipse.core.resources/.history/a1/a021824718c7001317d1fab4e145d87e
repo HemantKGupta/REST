@@ -1,0 +1,17 @@
+package com.test;
+
+import java.io.File;
+
+import com.fasterxml.jackson.databind.ObjectMapper;
+import com.test.domain.Permission;
+
+public class Main {
+
+	public static void main(String[] args) {
+		File f = new File("/media/Hemant/GitRepos/REST/JacksonMapperTest/src/permissions.json");
+		ObjectMapper mapper = new ObjectMapper();
+		Permission cust = mapper.readValue(f, Permission.class);
+
+	}
+
+}

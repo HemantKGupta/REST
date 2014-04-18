@@ -1,0 +1,11 @@
+package com.test;
+
+import java.io.File;
+
+public class Main {
+
+	public static void main(String[] args) {
+		File f = new File("/media/Hemant/GitRepos/REST/JacksonMapperTest/src/permissions.json");
+	}
+
+}
