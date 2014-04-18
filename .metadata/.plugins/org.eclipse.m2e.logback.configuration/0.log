@@ -1,0 +1,21 @@
+2014-04-18 20:38:15,883 [ModalContext] INFO  c.n.h.c.p.n.NettyAsyncHttpProvider - Number of application's worked threads is 8
+2014-04-18 20:38:18,842 [New I/O client worker #1-1] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://repo.maven.apache.org/maven2/org/mortbay/jetty/jetty-maven-plugin/8.1.13.v20130916/jetty-maven-plugin-8.1.13.v20130916.jar
+2014-04-18 20:38:19,565 [New I/O client worker #1-1] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://repo.maven.apache.org/maven2/org/mortbay/jetty/jetty-maven-plugin/8.1.13.v20130916/jetty-maven-plugin-8.1.13.v20130916.jar
+2014-04-18 20:38:23,286 [ModalContext] INFO  c.n.h.c.p.n.NettyAsyncHttpProvider - Number of application's worked threads is 8
+2014-04-18 20:38:23,827 [New I/O client worker #2-1] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://repo.maven.apache.org/maven2/org/codehaus/mojo/exec-maven-plugin/1.1/exec-maven-plugin-1.1.pom
+2014-04-18 20:38:23,828 [New I/O client worker #2-1] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://repo.maven.apache.org/maven2/org/codehaus/mojo/exec-maven-plugin/1.1/exec-maven-plugin-1.1.pom
+2014-04-18 20:38:24,108 [ModalContext] INFO  c.n.h.c.p.n.NettyAsyncHttpProvider - Number of application's worked threads is 8
+2014-04-18 20:38:24,637 [New I/O client worker #3-1] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://repo.maven.apache.org/maven2/org/codehaus/mojo/mojo/17/mojo-17.pom
+2014-04-18 20:38:24,899 [New I/O client worker #3-1] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://repo.maven.apache.org/maven2/org/codehaus/mojo/mojo/17/mojo-17.pom
+2014-04-18 20:38:25,185 [ModalContext] INFO  c.n.h.c.p.n.NettyAsyncHttpProvider - Number of application's worked threads is 8
+2014-04-18 20:38:25,732 [New I/O client worker #4-1] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://repo.maven.apache.org/maven2/org/codehaus/mojo/exec-maven-plugin/1.1/exec-maven-plugin-1.1.jar
+2014-04-18 20:38:26,085 [New I/O client worker #4-1] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://repo.maven.apache.org/maven2/org/codehaus/mojo/exec-maven-plugin/1.1/exec-maven-plugin-1.1.jar
+2014-04-18 20:38:34,852 [ModalContext] WARN  o.e.m.i.discovery.MavenDiscovery - CatalogItem org.eclipse.m2e.discovery.lifecyclemapping.m2e-egit does not contain lifecycle mapping metadata
+2014-04-18 20:38:34,857 [ModalContext] WARN  o.e.m.i.discovery.MavenDiscovery - CatalogItem org.eclipse.m2e.discovery.lifecyclemapping.m2e-subversive does not contain lifecycle mapping metadata
+2014-04-18 20:38:34,861 [ModalContext] WARN  o.e.m.i.discovery.MavenDiscovery - CatalogItem org.eclipse.m2e.discovery.lifecyclemapping.m2e-subclipse does not contain lifecycle mapping metadata
+2014-04-18 20:40:06,863 [Worker-2] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using NULL lifecycle mapping for MavenProject: com.oreilly.rest.workbook:jaxrs-2.0-workbook-pom:1.0 @ /media/Hemant/GitRepos/REST/BillBooK/pom.xml.
+2014-04-18 20:40:07,875 [Worker-2] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Project import completed 4 sec
+2014-04-18 20:40:08,460 [Worker-10] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using NULL lifecycle mapping for MavenProject: com.oreilly.rest.workbook:jaxrs-2.0-workbook-pom:1.0 @ /media/Hemant/GitRepos/REST/BillBooK/pom.xml.
+2014-04-18 20:40:08,564 [Worker-9] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update started
+2014-04-18 20:40:08,564 [Worker-9] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update completed: 0 sec
+2014-04-18 20:40:09,833 [Worker-9] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using NULL lifecycle mapping for MavenProject: com.oreilly.rest.workbook:jaxrs-2.0-workbook-pom:1.0 @ /media/Hemant/GitRepos/REST/BillBooK/pom.xml.
